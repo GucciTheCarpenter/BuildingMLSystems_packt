@@ -6,4 +6,4 @@
 
 | Chapter | tbd |
 | ------- | --- |
-| Getting Started with Python Machine Learning | |
+| [Getting Started with Python Machine Learning](ch01/Getting Started with Python Machine Learning.ipynb) | |
