@@ -7,7 +7,7 @@
 | Chapter | tbd |
 | ------- | --- |
 | [Getting Started with Python Machine Learning](ch01/Getting Started with Python Machine Learning.ipynb) | |
-| [Learning How to Classify with Real-world Examples](ch02/Learning How to Classify with Real-world Examples.ipynb ) | |
-| | |
+| [Learning How to Classify with Real-world Examples](ch02/Learning How to Classify with Real-world Examples.ipynb) | |
+| [Clustering – Finding Related Posts](ch03/Clustering – Finding Related Posts.ipynb) | |
 | | |
 | | |
